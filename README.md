@@ -10,3 +10,11 @@ If you’re not a software developer and aren’t keen on learning how to write 
 
   
 ![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/6d7a3cb7-4f38-4996-a984-af68a5b4fd65)
+
+
+STEP 1:-![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/601f7912-c963-4e75-bbbe-5b323cd36fed)
+
+![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/4d45a76a-6106-41b8-bcef-c7fbe36ff397)
+
+![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/d9f1297e-e909-4706-9a56-1efcb7e602fb)
+
