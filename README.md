@@ -9,4 +9,4 @@ If you’re not a software developer and aren’t keen on learning how to write 
 - As a DataEngineer our focus will be on pulling data from any social media and do transformation,store, and Analyzing.
 
   
-![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/6cb42127-fce9-4467-a014-a2cf851a4f10)
+![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/6d7a3cb7-4f38-4996-a984-af68a5b4fd65)
