@@ -7,7 +7,7 @@ Remember You are the target user of the prototype.
 If you’re not a software developer and aren’t keen on learning how to write and build software - you’re open to avoiding the software part of this exercise but still build the necessary artifacts to pitch your concept; highlight the business, product and technology innovation you’re looking to build and drive here and ultimately how the concept is going to help build great value for the world at scale by helping users on some aspects of their most valuable data.
 
 - As a DataEngineer our focus will be on pulling data from any open source API and do transformation,store, and Analyzing.
-## [Video Link]()
+## [Video Link](https://www.youtube.com/watch?v=JaByuFZXEkg)
   
 ![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/6d7a3cb7-4f38-4996-a984-af68a5b4fd65)
 
