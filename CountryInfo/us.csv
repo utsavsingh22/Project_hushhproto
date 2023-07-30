@@ -1,0 +1,13 @@
+cca2,ccn3,cca3,cioc,independent,status,unMember,region,subregion,landlocked,area,flag,population,fifa,startOfWeek
+"AU","036","AUS","AUS",True,"officially-assigned",True,"Oceania","Australia and New Zealand",False,7692024,"🇦🇺",25687041,"AUS","monday"
+"US","840","USA","USA",True,"officially-assigned",True,"Americas","North America",False,9372610,"🇺🇸",329484123,"USA","sunday"
+"AT","040","AUT","AUT",True,"officially-assigned",True,"Europe","Central Europe",True,83871,"🇦🇹",8917205,"AUT","monday"
+"BQ","535","BES",,False,"officially-assigned",False,"Americas","Caribbean",False,328,"🇧🇶",25987,,"monday"
+"SZ","748","SWZ","SWZ",True,"officially-assigned",True,"Africa","Southern Africa",True,17364,"🇸🇿",1160164,"SWZ","monday"
+"MU","480","MUS","MRI",True,"officially-assigned",True,"Africa","Eastern Africa",False,2040,"🇲🇺",1265740,"MRI","monday"
+"LU","442","LUX","LUX",True,"officially-assigned",True,"Europe","Western Europe",True,2586,"🇱🇺",632275,"LUX","monday"
+"CY","196","CYP","CYP",True,"officially-assigned",True,"Europe","Southern Europe",False,9251,"🇨🇾",1207361,"CYP","monday"
+"BY","112","BLR","BLR",True,"officially-assigned",True,"Europe","Eastern Europe",True,207600,"🇧🇾",9398861,"BLR","monday"
+"BN","096","BRN","BRU",True,"officially-assigned",True,"Asia","South-Eastern Asia",False,5765,"🇧🇳",437483,"BRU","monday"
+"RU","643","RUS","RUS",True,"officially-assigned",True,"Europe","Eastern Europe",False,17098242,"🇷🇺",144104080,"RUS","monday"
+"LS","426","LSO","LES",True,"officially-assigned",True,"Africa","Southern Africa",True,30355,"🇱🇸",2142252,"LES","monday"
