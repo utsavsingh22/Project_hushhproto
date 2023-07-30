@@ -7,7 +7,7 @@ Remember You are the target user of the prototype.
 If you’re not a software developer and aren’t keen on learning how to write and build software - you’re open to avoiding the software part of this exercise but still build the necessary artifacts to pitch your concept; highlight the business, product and technology innovation you’re looking to build and drive here and ultimately how the concept is going to help build great value for the world at scale by helping users on some aspects of their most valuable data.
 
 - As a DataEngineer our focus will be on pulling data from any open source API and do transformation,store, and Analyzing.
-
+## [Video Link]()
   
 ![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/6d7a3cb7-4f38-4996-a984-af68a5b4fd65)
 
@@ -37,3 +37,4 @@ Step 6:- After successful pipeline run it will generate those file in ADLS locat
 ![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/0eb8dc68-456d-48b0-b9c2-d13bdc419097)
 
 Step 7:- Now for analysis we can either download those file and use databrics or we can read that path also and do the analysis. In our case we will download and upload there for analysis.
+![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/d50b2740-35ed-46ec-a8b4-05f83f3c9bed)
