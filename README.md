@@ -38,3 +38,5 @@ Step 6:- After successful pipeline run it will generate those file in ADLS locat
 
 Step 7:- Now for analysis we can either download those file and use databrics or we can read that path also and do the analysis. In our case we will download and upload there for analysis.
 ![image](https://github.com/utsavsingh22/Project_hushhproto/assets/60449352/d50b2740-35ed-46ec-a8b4-05f83f3c9bed)
+
+
